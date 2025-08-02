@@ -1,0 +1,25 @@
+{
+  "name": "automation-exercise-cypress",
+  "version": "1.0.0",
+  "description": "Cypress automation framework for Automation Exercise website",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run",
+    "test:headed": "cypress run --headed"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing",
+    "typescript"
+  ],
+  "author": "Automation Engineer",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "typescript": "^5.3.0",
+    "@types/node": "^20.10.0"
+  }
+} 

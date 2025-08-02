@@ -1,0 +1,38 @@
+{
+  "validUser": {
+    "name": "TestUserLogin",
+    "email": "testuserlogin@test.com",
+    "password": "TestPassword123"
+  },
+  "newUser": {
+    "name": "NewTestUser",
+    "email": "newtestuser@test.com",
+    "password": "NewTestPassword123"
+  },
+  "userDetails": {
+    "title": "Mr",
+    "firstName": "Test",
+    "lastName": "User",
+    "company": "Test Company",
+    "address": "123 Test Street",
+    "address2": "Apt 4B",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90210",
+    "mobileNumber": "1234567890",
+    "dayOfBirth": "15",
+    "monthOfBirth": "6",
+    "yearOfBirth": "1990"
+  },
+  "expectedMessages": {
+    "homePageTitle": "Automation Exercise",
+    "newUserSignup": "New User Signup!",
+    "loginToAccount": "Login to your account",
+    "enterAccountInfo": "Enter Account Information",
+    "accountCreated": "Account Created!",
+    "loggedInAs": "Logged in as",
+    "emailExists": "Email Address already exist!",
+    "invalidCredentials": "Your email or password is incorrect!"
+  }
+} 
